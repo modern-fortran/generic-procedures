@@ -1,0 +1,6 @@
+*.o
+*.mod
+weather_average
+
+*.pyc
+__pycache__
