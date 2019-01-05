@@ -1,0 +1,10 @@
+EGLL # London, United Kingdom
+LAX  # Los Angeles, CA
+LYBE # Belgrade, Serbia
+MIA  # Miami, FL
+MMMX # Mexico City, Mexico
+NYC  # New York City, NY
+OIII # Tehran, Iran
+SEA  # Seattle, WA
+SKBO # Bogotta, Colombia
+ZGSZ # Shenzhen, China
